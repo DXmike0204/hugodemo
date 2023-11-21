@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dxmike0204.github.io/hugodemo/posts/my-first-post/</loc>
+    <lastmod>2023-11-21T16:12:05+08:00</lastmod>
+  </url><url>
+    <loc>https://dxmike0204.github.io/hugodemo/posts/</loc>
+    <lastmod>2023-11-21T16:12:05+08:00</lastmod>
+  </url><url>
+    <loc>https://dxmike0204.github.io/hugodemo/</loc>
+    <lastmod>2023-11-21T16:12:05+08:00</lastmod>
+  </url><url>
     <loc>https://dxmike0204.github.io/hugodemo/categories/</loc>
   </url><url>
     <loc>https://dxmike0204.github.io/hugodemo/tags/</loc>
-  </url><url>
-    <loc>https://dxmike0204.github.io/hugodemo/</loc>
   </url>
 </urlset>
