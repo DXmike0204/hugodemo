@@ -1,0 +1,6 @@
+baseURL = 'https://dxmike0204.github.io/hugodemo/'
+languageCode = 'en-us'
+title = 'ya'
+theme = 'PaperMod'
+
+publishDir = 'docs'
